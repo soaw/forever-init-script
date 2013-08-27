@@ -127,7 +127,7 @@ stop() {
  
 restart() {
     if [ -f $PIDFILE ]; then
-        echo "Restarting down $NAME"
+        echo "Restarting $NAME"
         sudo -u $NODE_USER -s forever restart $APPLICATION_START
         RETVAL=$?
     else
