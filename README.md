@@ -35,3 +35,8 @@ Usage
 	$ service forever restart
 ### Stop script
 	$ service forever stop
+	
+Licensing
+=========
+
+© 2013 <a href="https://www.exratione.com" target="_blank">Reason</a> and <a href="http://soaw.com" target="_blank">SOAW</a>. Source code is distributed under CDDL 1.0 open source license.

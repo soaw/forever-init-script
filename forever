@@ -25,8 +25,9 @@
 # Description:          My Application
 ### END INIT INFO
 #
-# Author: Reason (http://www.exratione.com)
-# Contributor: Mikhail Emelchenkov @ SOAW (http://soaw.com)
+# Author: Reason (https://www.exratione.com).
+# Contributor: Mikhail Emelchenkov @ SOAW (http://soaw.com).
+# Distributed under CDDL 1.0 open source license.
 #
 # Based on:
 # https://gist.github.com/3748766
